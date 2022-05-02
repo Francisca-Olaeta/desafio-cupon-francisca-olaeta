@@ -1,0 +1,114 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.nomargin {
+    margin: 0px !important;
+}
+
+.nopadding {
+    padding: 0px !important;
+}
+
+/* Navbar */
+.navbar-color {
+    background-color: #28a745 !important;
+}
+
+header img {
+    box-sizing: border-box;
+    width: 86px;
+    margin-left: 8px;
+    padding: 0px;
+}
+
+
+/* Cards */
+.container-fluid p, address {
+    font-weight: 100;
+    color: #707070;
+}
+
+.container-fluid h5 {
+    font-weight: 300;
+    color: #212529;
+}
+
+.container-fluid i {
+    padding-right: 4px;
+    color: #707070;
+}
+
+.card ul {
+    text-align: right;
+}
+
+.card ul .precio-normal {
+    color: #707070;
+    font-weight: 300;
+    font-size: 16px;
+    display: inline-block;
+
+}
+
+.card ul .precio-oferta {
+    color: #28a745;
+    font-weight: 500;
+    font-size: 20px;
+    display: inline-block;
+}
+
+.store-name {
+    font-size: 16px;
+    margin-bottom: 0;
+}
+
+address {
+    font-size: 13px;
+    margin-bottom: -16px;
+}
+
+/* formulario */
+form {
+    background-color: #28a745;
+    padding: 25px 10px 29px 10px;
+    text-align: center;
+}
+
+
+form h6 {
+    font-size: 21px;
+    font-weight: 500;
+    text-align: center;
+    color: #ffffff;
+    padding-bottom: 7px;
+}
+
+.container-fluid form button {
+    background-color: #F8F9FA;
+    border: none;
+    color: #212529;
+    font-weight: 500;
+}
+
+.container-fluid form .mb-3 .form-control {
+    font-weight: 300;
+}
+
+.margin-top {
+    margin-top: -1.5em;
+}
+
+/* footer */
+footer {
+    text-align: center;
+    font-weight: 300;
+    color: #707070;
+    line-height: 19px;
+    padding: 24px 21px 22px 21px;
+}
+
+footer img {
+    width: 82px;
+    padding: 0 0 10px 0; 
+}
